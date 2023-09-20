@@ -1,3 +1,12 @@
+# React Calculator App
+Welcome to the React Calculator App! This is a fully functional calculator built with React, powered by the useReducer Hook for state management, and styled with pure CSS.
+
+## Key Features:
++ User-Friendly Interface: Enjoy a clean and intuitive design that makes performing calculations a breeze.
++ Dynamic State Management: The app leverages the useReducer Hook to efficiently manage the calculator's state, ensuring smooth and error-free calculations.
++ Responsive Design: The calculator is designed to work seamlessly on various screen sizes, from mobile devices to desktops.
++ Mathematical Functions: Perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
